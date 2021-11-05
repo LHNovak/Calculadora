@@ -47,6 +47,3 @@ while i == 'yes':
 
 else:
     print('Entendido, até a proxima!')
-     
-
-
