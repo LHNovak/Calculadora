@@ -7,3 +7,7 @@ Não tem segredo, o próprio programa vai printar no terminal as instruções s�
 <strong>Linguagem de Programação:</strong> <a href="https://www.python.org/">Python</a>
 
 <strong>Editor de Código/IDE:</strong> <a href="https://code.visualstudio.com/">Visual Studio</a>
+
+
+
+<strong>Autor:</strong> <a href="https://github.com/LHNovak">Lucas Novakowski</a>
